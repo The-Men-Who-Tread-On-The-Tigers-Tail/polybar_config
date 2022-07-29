@@ -11,3 +11,7 @@ font-0 = agaveNerdFont:size=14;3
 font-1 = MaterialSymbolsSharp:size=18;2
 font-2 = monospace:size=14;1
 ```
+
+And here ist the dawn version:
+
+![Screenshot](./assets/screenshot_dawn.png)
