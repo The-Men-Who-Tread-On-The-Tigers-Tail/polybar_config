@@ -8,7 +8,7 @@ polybar-msg cmd quit
 
 # Launch bar rosepine
 echo "---" | tee -a /tmp/polybar-rosepine.log
-polybar --config="$HOME/.config/polybar/config_dawn.ini" rosepine 2>&1 | tee -a /tmp/polybar-rosepine.log &
+polybar --config="$HOME/.config/polybar/config.ini" rosepine 2>&1 | tee -a /tmp/polybar-rosepine.log &
 disown
 
 echo "Bars launched..."
