@@ -1,5 +1,7 @@
 # [Polybar](https://github.com/polybar/polybar) with [rose-pine theme](https://rosepinetheme.com/)
 
+## not up to date..
+
 This polybar ist based on an example bar with some modifications and adjustments and rose pine colors.
 
 ![Screenshot](./assets/screenshot.png)
